@@ -11,7 +11,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1, tvg-id="TV3.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" tvg-name="TV3"  group-title="(no group)",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbSOYX8GIucAUy_i9xmFAG8)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1
 
-#EXTINF:-1, tvg-id="TV3.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" tvg-name="TV3 (Backup)"  group-title="(no group)",TV3
+#EXTINF:-1, tvg-id="TV3.my" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" tvg-name="TV3 (Backup)"  group-title="(no group)",TV3 (Backup)
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbSOYX8GIucAUy_i9xmFAG8)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg11
 
 #EXTINF:-1, tvg-id="DramaSangat.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png/revision/latest/scale-to-width-down/530?cb=20210911080527" tvg-name="Drama Sangat"  group-title="New Group",Drama Sangat
@@ -100,5 +100,5 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, tvg-id="Nickelodeon" tvg-logo="https://www.pngfind.com/pngs/m/296-2965113_94kib-1024x768-splat-nickelodeon-splat-logo-png-transparent.png" tvg-name="Nickelodeon"  group-title="Animation",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="801 Astro Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png" group-title="Sports",801 Astro Arena
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YejdGWmlRM2lUdVJsWkdqUWV0MFdzRF9raTU1NGN1VjZ4d3Bma1NBakI5YWxMTEtCcm1xaHd2WU5kQ0tsT080Um5GZmJmblk0NkZLSGdfcHNEd3pOQWNVUGNZVkxjY3FmRS1JSXVqcWcyZ0JJVFpPMmwybXFWVkZBS3RIRnprTmNyN21Bd1lTSG5TRVpsQ29MZUdLVW5IbjBxX2lNLVc5dUNhcTNyb3BIZnkwM2RESlZGZUI3bjN4X0FUYV8xQm5MZnZwRGwzdUwwa0d3WUF5MWlsbExlNm94NzRmV3FyOEh1OUVGTGlUVUdKd3BidVFQempwV0RUSXB5N2d6SEVsdGRVYktFeU1QcFpMZVJTMXhKVDBzNGhlOEJWajZD
+#EXTINF:-1, tvg-id="AstroArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url=" tvg-name="Astro Arena"  group-title="Sport",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
