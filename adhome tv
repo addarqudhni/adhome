@@ -99,3 +99,6 @@ http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="AstroArena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url=" tvg-name="Astro Arena"  group-title="Sport",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eGGNetwork" tvg-name="800 eGG Network HD" tvg-logo="https://i.kampung.xyz/c/5a8c2149409e6e47.png" group-title="Sports",800 eGG Network HD
+# http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
